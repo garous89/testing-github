@@ -3,7 +3,7 @@ public class FirstTest {
 
 	public FirstTest() {
 		// TODO Auto-generated constructor stub
-		system.println(""J'ai créé une super fonction de malade");
+		System.out.println(""J'ai créé une super fonction de malade");
 	}
 
 	/**
